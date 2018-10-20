@@ -1,4 +1,6 @@
 # Repositorio DEMO
 ## Lista de asistencia
 * Jorge Atempa
-* Carol Chávez B.
+* joaquin ortega N
+* Carol Chavez B.
+
